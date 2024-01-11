@@ -1,6 +1,6 @@
 # gp4311's GitHub Profile
 
-Welcome to my GitHub profile! I'm Gehnaa, an engineering student and programming enthusiast. Here, you'll find a collection of my projects and contributions related to full-stack development and user experience design.
+Welcome to my GitHub profile! I'm Gehnaa, an engineering student and programming enthusiast. Here, you'll find a collection of my projects!
 
 ## About Me
 
